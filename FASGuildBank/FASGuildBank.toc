@@ -1,0 +1,12 @@
+## Interface: 11302
+## Title: |cFFFFFFFFFlat Azeroth Society Guild Bank|r|cFF00FF00 v0.0.1|r|cFFFF0000 Alpha|r
+## Author: Flat Azeroth Society
+## Notes: Get inventory updates for FAS Guild Bank
+## Version: 0.0.1 ALPHA
+## RequiredDeps:
+## OptionalDeps:
+## SavedVariables:
+## SavedVariablesPerCharacter: InventoryLogData
+
+#Main
+FASGuildBank.lua
